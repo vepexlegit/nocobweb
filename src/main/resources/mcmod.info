@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nocobweb",
+  "name": "NoCobweb",
+  "description": "This mod removes the web collision for the player",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
