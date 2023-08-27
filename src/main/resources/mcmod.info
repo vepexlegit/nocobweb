@@ -1,8 +1,8 @@
 [
 {
-  "modid": "nocobweb",
-  "name": "NoCobweb",
-  "description": "This mod removes the web collision for the player",
+  "modid": "nocobwebdebug",
+  "name": "NoCobwebDebug",
+  "description": "This mod is an addition to the main nocobweb mod.\nThis add-on will help you turn nocobweb on or off",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
